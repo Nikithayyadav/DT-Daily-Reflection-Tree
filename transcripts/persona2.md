@@ -1,5 +1,5 @@
 # Persona 2 Transcript  
-(Victor / Contributing / Altrocentric)
+(Victor / Contributing / Altrocentric) 
 
 ## Session Start
 
