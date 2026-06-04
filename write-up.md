@@ -6,7 +6,7 @@ The goal of this project was to design a deterministic end-of-day reflection age
 
 The system uses a branching decision tree with fixed choices, ensuring predictability, auditability, and repeatable outcomes.
 
----
+--- 
 
 ## Why These Three Axes
 
