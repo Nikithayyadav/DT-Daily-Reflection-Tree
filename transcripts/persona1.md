@@ -1,7 +1,7 @@
 # Persona 1 Transcript  
 (Victim / Entitled / Self-Centric)
 
-## Session Start
+## Session Start 
 
 Good evening. Let's reflect on your day.
 
