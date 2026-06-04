@@ -8,7 +8,7 @@ The system uses a branching decision tree with fixed choices, ensuring predictab
 
 --- 
 
-## Why These Three Axes
+## Why These Three Axes 
 
 I selected the three required psychological dimensions because they form a natural progression of growth:
 
