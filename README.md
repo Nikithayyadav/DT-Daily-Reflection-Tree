@@ -25,7 +25,7 @@ The reflection system guides users through three psychological axes:
 
 Axis 1: Locus
 
-Victim ↔ Victor
+Victim ↔ Victor 
 
 Axis 2: Orientation
 
