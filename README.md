@@ -5,7 +5,7 @@ This project was created for the DeepThought Fellowship recruitment assignment.
 It demonstrates how psychological reflection can be transformed into a deterministic decision-tree product without using LLMs at runtime.
 
 ---
-
+ 
 ## Project Structure
  
 ```text
