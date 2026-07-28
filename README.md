@@ -6,7 +6,7 @@ It demonstrates how psychological reflection can be transformed into a determini
 
 ---
    
-## Project Structure
+## Project Structure 
  
 ```text
 DT-Daily-Reflection-Tree/
